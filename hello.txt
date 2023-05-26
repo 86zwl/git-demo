@@ -6,5 +6,7 @@ hello.git!
 hello.git!
 hello.git!
 hello.git!
-version -v3
+version -v3.1
+进行分支版本的修复
+hot-fix 修改相应的信息
 
