@@ -12,3 +12,4 @@ hot-fix 修改相应的信息
 hello.git master test v1
 hello.git hot-fix 修改文件
 version -v3.2
+在gittub上修改文件
