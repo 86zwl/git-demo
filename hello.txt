@@ -10,3 +10,5 @@ version -v3.1
 进行分支版本的修复
 hot-fix 修改相应的信息
 
+测试冲突合并
+hello.git master test v1
