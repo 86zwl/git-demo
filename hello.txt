@@ -10,3 +10,6 @@ version -v3.1
 进行分支版本的修复
 hot-fix 修改相应的信息
 
+hot-fix 对文件进行修复操作
+hello.git hot-fix 修改文件
+version -v3.2
